@@ -1,0 +1,37 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+        <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/wagtail/bin/python3.5" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+      </component>
+      <component name="PyConsoleOptionsProvider">
+        <option name="myPythonConsoleState">
+          <console-settings sdk-home="$USER_HOME$/anaconda3/envs/inscheck/bin/python">
+            <option name="mySdkHome" value="$USER_HOME$/anaconda3/envs/inscheck/bin/python" />
+          </console-settings>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

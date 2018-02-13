@@ -1,0 +1,31 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/nf/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/stitch/bin/python" value="false" />
+        <entry key="ssh://ubuntu@ec2-13-125-150-225.ap-northeast-2.compute.amazonaws.com:22/home/ubuntu/carinspoint/carinspoint/bin/python3.5" value="false" />
+        <entry key="ssh://ubuntu@ec2-13-125-154-58.ap-northeast-2.compute.amazonaws.com:22/home/ubuntu/carinspoint/carinspoint/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/nf/bin/python3.5" value="false" />
+        <entry key="ssh://ubuntu@ec2-13-125-150-225.ap-northeast-2.compute.amazonaws.com:22/home/ubuntu/carinspoint/carinspoint/bin/python3.5" value="false" />
+        <entry key="ssh://ubuntu@ec2-13-125-154-58.ap-northeast-2.compute.amazonaws.com:22/home/ubuntu/carinspoint/carinspoint/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/nf/bin/python3.5" value="false" />
+        <entry key="ssh://ubuntu@ec2-13-125-150-225.ap-northeast-2.compute.amazonaws.com:22/home/ubuntu/carinspoint/carinspoint/bin/python3.5" value="false" />
+        <entry key="ssh://ubuntu@ec2-13-125-154-58.ap-northeast-2.compute.amazonaws.com:22/home/ubuntu/carinspoint/carinspoint/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

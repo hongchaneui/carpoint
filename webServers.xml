@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="78d407f5-5d78-4e47-b70a-c6c851610bc6" name="Copy of project-level server 'aws_endurance'" url="http://ec2-13-124-16-180.ap-northeast-2.compute.amazonaws.com">
-        <fileTransfer host="ec2-13-124-16-180.ap-northeast-2.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/Desktop/dev/endurance/key/endurance.pem" accessType="SFTP" keyPair="true">
+      <webServer id="78d407f5-5d78-4e47-b70a-c6c851610bc6" name="aws" url="http://ec2-13-124-16-180.ap-northeast-2.compute.amazonaws.com">
+        <fileTransfer host="ec2-13-124-16-180.ap-northeast-2.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/Desktop/dev/carpoint/endurance.pem" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

@@ -13,19 +13,21 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="db" type="Native" />
-      <mapping pattern="coinone_key" type="PLAIN_TEXT" />
+      <mapping pattern="column_ex.py" type="PLAIN_TEXT" />
       <mapping pattern="instruction" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
-      <mapping pattern="column_ex.py" type="PLAIN_TEXT" />
+      <mapping pattern="coinone_key" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping pattern="column_ex" type="Python" />
+      <mapping pattern="autoup_temp" type="Python" />
+      <mapping pattern="EBN" type="Python" />
+      <mapping pattern="news" type="Python" />
       <mapping pattern="sqlite" type="Python" />
       <mapping pattern="ee" type="Python" />
-      <mapping pattern="column_ex" type="Python" />
       <mapping pattern="damoa_code" type="Python" />
-      <mapping pattern="EBN" type="Python" />
-      <mapping pattern="autoup_temp" type="Python" />
     </extensionMap>
   </component>
 </application>

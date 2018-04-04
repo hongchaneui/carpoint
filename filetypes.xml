@@ -15,6 +15,7 @@
       <mapping ext="db" type="Native" />
       <mapping pattern="uwsgi_params" type="PLAIN_TEXT" />
       <mapping pattern="column_ex.py" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="instruction" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern="coinone_key" type="PLAIN_TEXT" />

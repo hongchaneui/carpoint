@@ -26,10 +26,11 @@
       <mapping ext="xt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="column_ex" type="Python" />
+      <mapping pattern="news" type="Python" />
       <mapping pattern="autoup_temp" type="Python" />
       <mapping pattern="EBN" type="Python" />
-      <mapping pattern="news" type="Python" />
       <mapping pattern="sqlite" type="Python" />
       <mapping pattern="ee" type="Python" />
       <mapping pattern="damoa_code" type="Python" />

@@ -13,9 +13,10 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="db" type="Native" />
-      <mapping pattern="finevery_web" type="PLAIN_TEXT" />
+      <mapping pattern="tenop" type="PLAIN_TEXT" />
       <mapping pattern="pointsystem" type="PLAIN_TEXT" />
       <mapping pattern="uwsgi_params" type="PLAIN_TEXT" />
+      <mapping pattern="finevery_web" type="PLAIN_TEXT" />
       <mapping pattern="column_ex.py" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="instruction" type="PLAIN_TEXT" />
